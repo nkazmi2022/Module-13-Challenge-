@@ -1,0 +1,3 @@
+config.js
+// API key
+const API_KEY = "pk.eyJ1Ijoibmthem1pIiwiYSI6ImNsOXg4MjFqMDA0bWgzdnBsejV3M2tmZDUifQ.9g48WHFVCjBgysZMMoJhvw";
